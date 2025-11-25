@@ -30,7 +30,7 @@ Senior Software Engineer
 </td>
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/midhundevasia/midhundevasia/refs/heads/main/assets/images/profile.png" width="90%" style="border-radius: 12px;"/>
+<img src="https://avatars.githubusercontent.com/u/74341800?s=400&u=a93f89399304ff01da840f531f81a19930bb514c&v=4" width="90%" style="border-radius: 12px;"/>
 
 </td>
 </tr>
