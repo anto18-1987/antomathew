@@ -17,13 +17,17 @@ Senior Software Engineer
 📧 antomathew18@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/anto-mathew-07264096
+
 🌍 Kerala, India
+
 🐙 GitHub: github.com/anto18-1987
+
 🦊 GitLab: gitlab.com/users/antomathew18/groups
+
 🐳 Docker Hub: hub.docker.com/u/anto18
 
 ### Find me around the web  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anto-mathew-07264096/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anto-mathew-07264096/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://gitlab.com/users/antomathew18/groups)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/anto__mathew)
 
